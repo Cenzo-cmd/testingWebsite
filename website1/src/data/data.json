@@ -1,0 +1,156 @@
+{"Header": {
+  "title": "",
+  "paragraph": ""
+},
+"Intro": {
+  "paragraph": "8bit Emojis are a limited collection of 10,000 uniquely generated NFT's from over 100 different attributes. The 1st generation of 10,000 NFT's will be 24 x 24 pixels, enlarged to 600 x 600 pixels and stored on the Ethereum Blockchain.",
+  "secondP": "Each 8bit Emoji will cost 0.043 ETH and you will be able to mint 10 per transaction.  "
+},
+  
+  "About": {
+    "paragraph": "NFT's are not just digital art ownership, we believe they should be bought everywhere.  Each month in the discord, we will be nominating an 8bit Emoji of the month and will have special merchandise for each one.  Join our Discord and become part of our community.",
+    "Why": [],
+    "Why2": [ ]
+  },
+  "Gallery": [
+    {
+      "title": "Base: Alien, Mouth: Smirk, Eyes: Blue Sunglasses, Hat: Frog, Prop: None",
+      "largeImage": "img/emoji/image3.png",
+      "smallImage": "img/emoji/image3.png"
+    },
+    {
+      "title": "Base: Peach, Mouth: Big Smile, Eyes: Happy, Hat: Pilot, Prop: None",
+      "largeImage": "img/emoji/image17.png",
+      "smallImage": "img/emoji/image17.png"
+    },
+    {
+      "title": "Base: Yellow, Mouth: Tongue Out, Eyes: Robocop, Hat: Pimp, Prop: None",
+      "largeImage": "img/emoji/image25.png",
+      "smallImage": "img/emoji/image25.png"
+    },
+    {
+      "title": "Base: Yellow, Mouth: Blush, Eyes: Happy, Hat: Leprechaun, Prop: None",
+      "largeImage": "img/emoji/image23.png",
+      "smallImage": "img/emoji/image23.png"
+    },
+    {
+      "title": "Base: Poop, Mouth: Smile, Eyes: Excited, Hat: Santa Claus, Prop: None",
+      "largeImage": "img/emoji/image12.png",
+      "smallImage": "img/emoji/image12.png"
+    },
+    {
+      "title": "Base: Red, Mouth: Surprised, Eyes: Sunglasses, Hat: Purple, Prop: Party Horn",
+      "largeImage": "img/emoji/image16.png",
+      "smallImage": "img/emoji/image16.png"
+    },
+    {
+      "title": "Base: Yellow, Mouth: Normal Smile, Eyes: Wink, Hat: None, Prop: None",
+      "largeImage": "img/emoji/image29.png",
+      "smallImage": "img/emoji/image29.png"
+    },
+    {
+      "title": "Base: Sick, Mouth: Puke, Eyes: Sunglasses2, Hat: Blue, Prop: None",
+      "largeImage": "img/emoji/image6.png",
+      "smallImage": "img/emoji/image6.png"
+    },
+    {
+      "title": "Base: Yellow, Mouth: Zig-zag, Eyes: Orange Sunglasses, Hat: Cowboy, Prop: Pipe",
+      "largeImage": "img/emoji/image21.png",
+      "smallImage": "img/emoji/image21.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fab fa-discord",
+      "name": "Discord",
+      "text": "Are you an 8bit-emoji fanatic!?!?  Join the discussion in our discord channel."
+    },
+    {
+      "icon": "fa fa-twitter",
+      "name": "Twitter",
+      "text": "Tweet your favorite 8bit-emoji to all your followers."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Vincent D.",
+      "job": "Artist, Developer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Eric T.",
+      "job": "Artist, Developer"
+    }
+  ],
+  "Contact": {
+    "email": "info@8bitemoji.io",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "far fa-dizzy",
+      "title": "Background",
+      "text": "The base layer of the 8bit-emoji NFT collection. 😃 One of ten with equal chance to appear."
+    },
+    {
+      "icon": "far fa-meh",
+      "title": "Face",
+      "text": "One shape with 8 different potential outcomes for the 8bit-emoji; Will you mint the ultra-rare 💩?"
+    },
+    {
+      "icon": "far fa-flushed ",
+      "title": "Mouth",
+      "text": "🤑 28 potential variations to make your 8bit-emoji sad ... or glad ... or mad ... or ..."
+    },
+    {
+      "icon": "far fa-grin-squint",
+      "title": "Eyes",
+      "text": "Crying laughing, or just plain crying; 🙄 the eyes are the window to the 8bit-emoji."
+    },
+    {
+      "icon": "far fa-grin-tongue",
+      "title": "Headwear",
+      "text": "The 8bit-emoji is given to express personality 🎅 through the type of head wear chosen."
+    }, 
+    {
+      "icon": "far fa-kiss-wink-heart",
+      "title": "Rare props",
+      "text": "There is only a 15% change of minting a prop for your 8bit-emoji, 👽 may the force of the blockchain be with you."
+    }
+  ]
+}
