@@ -30,12 +30,14 @@ const App = () => {
       <Header data={landingPageData.Header} />
       <Intro data={landingPageData.Intro} />     
       <Features data={landingPageData.Features} />
-       {/* shop */}
-       <About data={landingPageData.About} />
-      <Gallery data={landingPageData.Gallery}/>
+       
+      
       <Testimonials data={landingPageData.Testimonials} />
       <Services data={landingPageData.Services} />
       <Team data={landingPageData.Team} />
+      <Gallery data={landingPageData.Gallery}/>
+      {/* shop */}
+      <About data={landingPageData.About} />
       <Contact data={landingPageData.Contact} />
     </div>
   );
