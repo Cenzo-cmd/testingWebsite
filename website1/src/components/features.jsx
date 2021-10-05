@@ -4,6 +4,7 @@ export const Features = (props) => {
       <div className='container'>
         <div className='col-md-10 col-md-offset-1 section-title'>
           <h2>Randomly Generated Layers</h2>
+          <p>Hello there</p>
         </div>
         <div className='row'>
           {props.data

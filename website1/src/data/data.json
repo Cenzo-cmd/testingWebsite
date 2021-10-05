@@ -3,12 +3,12 @@
   "paragraph": ""
 },
 "Intro": {
-  "paragraph": "8bit Emojis are a limited collection of 10,000 uniquely generated NFT's from over 100 different attributes. The 1st generation of 10,000 NFT's will be 24 x 24 pixels, enlarged to 600 x 600 pixels and stored on the Ethereum Blockchain.",
-  "secondP": "Each 8bit Emoji will cost 0.043 ETH and you will be able to mint 10 per transaction.  "
+  "paragraph": "emOG's are a limited collection of 10,000 uniquely generated NFT's from over 100 different attributes. The 1st generation of 10,000 NFT's are Crypto Punk inspired and will be 24 x 24 pixels, enlarged to 720 x 720 pixels, stored on the Ethereum Blockchain.  The NFT sale will be Sunday October 24th, at 5 PM EST.  Each emOG will cost 0.035 ETH and you wil be able to mint 10 per transaction.",
+  "secondP": "Our mission is simple, we want to give back to commuinities while bringing awareness to NFT's.  Our goal is to raise $1 million and donate it to schools, sports programs and learning centers in the form of learning supplies, sports equipment and any supply that will benefit our youth communities.  50% of all NFT mint sales, aftermarket royalties and shop profits will donated to our youth.  If you are interested in joining our community or would like to nominate a school, please join our discord."
 },
   
   "About": {
-    "paragraph": "NFT's are not just digital art ownership, we believe they should be bought everywhere.  Each month in the discord, we will be nominating an 8bit Emoji of the month and will have special merchandise for each one.  Join our Discord and become part of our community.",
+    "paragraph": "",
     "Why": [],
     "Why2": [ ]
   },
@@ -73,46 +73,40 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/t1.png",
+      "text": "emOG is released to the world.  Thursday Oct 7th, 2021"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/t2.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/t3.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/t4.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/t5.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
     },
     {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/t6.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "Vincent D.",
-      "job": "Artist, Developer"
+      "name": "Vincent Doria Jr.",
+      "job": "Developer/ Artist"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Eric T.",
-      "job": "Artist, Developer"
+      "img": "img/team/2.png",
+      "name": "My Daughter",
+      "job": "Artist/ Ideator"
     }
   ],
   "Contact": {

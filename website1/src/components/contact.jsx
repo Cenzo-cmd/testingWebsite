@@ -41,7 +41,7 @@ export const Contact = (props) => {
               <div className='section-title'>
                 <h2>Smart Contract Address</h2>
                 <p>
-                0xf43aazzzzzzzzzzzzzzzzzzzz8db7b690f
+                Coming soon 😁
                 </p>
 
               </div>
