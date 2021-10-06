@@ -63,12 +63,12 @@
     {
       "icon": "fab fa-discord",
       "name": "Discord",
-      "text": "Are you an 8bit-emoji fanatic!?!?  Join the discussion in our discord channel."
+      "text": "Are you an emOG fan!?  Join the discussion in our discord channel."
     },
     {
       "icon": "fa fa-twitter",
       "name": "Twitter",
-      "text": "Tweet your favorite 8bit-emoji to all your followers."
+      "text": "Tweet your favorite emOG's to all your followers."
     }
   ],
   "Testimonials": [
@@ -101,7 +101,7 @@
     {
       "img": "img/team/01.jpg",
       "name": "Vincent Doria Jr.",
-      "job": "Developer/ Artist"
+      "job": "Full Stack Developer/ Artist"
     },
     {
       "img": "img/team/2.png",
