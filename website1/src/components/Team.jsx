@@ -3,10 +3,9 @@ export const Team = (props) => {
     <div id='team' className='text-center'>
       <div className='container'>
         <div className='col-md-8 col-md-offset-2 section-title'>
-          <h2>Meet the Team</h2>
+          <h2>Team & Story</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            emOG was created by Vincent his 8 year old daughter.  I was showing my daughter the Crypto Punks collection and she asked "Can we make a collection of Pixel Art Emoji's?".  Immediately the emOG idea was created.  After hours of laughing and drawing, we were able to put togeather a small collection of layers which we were able to generate into random emoji images.  Add to story here......
           </p>
         </div>
         <div id='row'>

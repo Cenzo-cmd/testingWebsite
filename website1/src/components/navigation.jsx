@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            8 Bit Emoji
+            emOG
           </a>{' '}
         </div>
 
@@ -25,20 +25,20 @@ export const Navigation = (props) => {
           id='bs-example-navbar-collapse-1'
         >
           <ul className='nav navbar-nav navbar-right'>
-            <li>
+            {/* <li>
               <a href='#' >
                 Opensea
               </a>
-            </li>
-            <li>
-              <a href='#about' className='page-scroll'>
-                Shop
-              </a>
-            </li>
+            </li> */}
             
             <li>
-              <a href='#portfolio' className='page-scroll'>
-                Gallery
+              <a href='#info' className='page-scroll'>
+                About
+              </a>
+            </li>
+            <li>
+              <a href='#testimonials' className='page-scroll'>
+                Roadmap
               </a>
             </li>
             <li>
@@ -49,6 +49,16 @@ export const Navigation = (props) => {
             <li>
               <a href='#team' className='page-scroll'>
                 Team
+              </a>
+            </li>
+            <li>
+              <a href='#portfolio' className='page-scroll'>
+                Gallery
+              </a>
+            </li>
+            <li>
+              <a href='#about' className='page-scroll'>
+                Shop
               </a>
             </li>
             <li>

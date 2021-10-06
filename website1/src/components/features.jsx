@@ -3,7 +3,8 @@ export const Features = (props) => {
     <div id='features' className='text-center'>
       <div className='container'>
         <div className='col-md-10 col-md-offset-1 section-title'>
-          <h2>Randomly Generated Layers</h2>
+          <h2>How are emOG's created?</h2>
+          <p>There are 6 layers to each emOG.  Each layer has multiple traits options but each emOG will randomly recieve 1 trait per layer.  There are over 100 different traits which will make each NFT unique to the collection.</p>
         </div>
         <div className='row'>
           {props.data

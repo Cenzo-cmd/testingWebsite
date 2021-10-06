@@ -14,7 +14,7 @@ h4 {
   font-family: "Raleway", sans-serif;
 }
 h2 {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   margin: 0 0 20px;
   font-weight: 800;
   font-size: 36px;
@@ -85,7 +85,6 @@ hr {
   font-size: 24px;
   font-weight: 700;
   color: #333;
-  text-transform: uppercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
@@ -232,7 +231,7 @@ a:focus,
   color: #5ca9fb;
 }
 .intro p {
-  color:black;
+  color: black;
   font-size: 60px;
   font-weight: bold;
   /* font-weight: 300;
@@ -473,7 +472,7 @@ header .intro-text {
   display: block;
   width: 64px;
   height: 64px;
-  border-radius: 50%;
+  /* border-radius: 50%; */
 }
 .testimonial-content {
   position: relative;
@@ -482,7 +481,6 @@ header .intro-text {
 .testimonial-content p {
   margin-bottom: 0;
   font-size: 14px;
-  font-style: italic;
 }
 .testimonial-meta {
   margin-top: 10px;
