@@ -148,6 +148,10 @@ hr {
   margin-bottom: 15px;
   padding-bottom: 15px;
 }
+.layerImg {
+  width: 150px;
+  height: 150px;
+}
 .section-title h2::after {
   position: absolute;
   content: "";
@@ -506,6 +510,7 @@ header .intro-text {
   padding: 10px 0 0;
   color: #888;
 }
+
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;

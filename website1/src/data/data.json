@@ -117,34 +117,34 @@
   },
   "Features": [
     {
-      "icon": "far fa-dizzy",
+      "img": "img/layers/layer1.png",
       "title": "Background",
-      "text": "The base layer of the 8bit-emoji NFT collection. 😃 One of ten with equal chance to appear."
+      "text": "The base layer of the emOG NFT collection. 😃 10 options."
     },
     {
-      "icon": "far fa-meh",
+      "img": "img/layers/layer2.png",
       "title": "Face",
-      "text": "One shape with 8 different potential outcomes for the 8bit-emoji; Will you mint the ultra-rare 💩?"
+      "text": "9 total outcomes for the emOG; Will you mint the ultra-rare 💩?"
     },
     {
-      "icon": "far fa-flushed ",
+      "img": "img/layers/layer3.png",
       "title": "Mouth",
-      "text": "🤑 28 potential variations to make your 8bit-emoji sad ... or glad ... or mad ... or ..."
+      "text": "🤑 28 potential variations to make your emOG sad ... or glad ... or mad ... or ... "
     },
     {
-      "icon": "far fa-grin-squint",
+      "img": "img/layers/layer4.png",
       "title": "Eyes",
-      "text": "Crying laughing, or just plain crying; 🙄 the eyes are the window to the 8bit-emoji."
+      "text": "Crying laughing, or just plain crying; 🙄 the eyes are the window to the emOG."
     },
     {
-      "icon": "far fa-grin-tongue",
+      "img": "img/layers/layer5.png",
       "title": "Headwear",
-      "text": "The 8bit-emoji is given to express personality 🎅 through the type of head wear chosen."
+      "text": "The emOG is given to express personality 🎅 through the type of head wear chosen."
     }, 
     {
-      "icon": "far fa-kiss-wink-heart",
+      "img": "img/layers/layer6.png",
       "title": "Rare props",
-      "text": "There is only a 15% change of minting a prop for your 8bit-emoji, 👽 may the force of the blockchain be with you."
+      "text": "There is only a 15% change of minting a prop for your emOG, 👽 may the force of the blockchain be with you."
     }
   ]
 }
