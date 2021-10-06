@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cenzo-cmd/testingWebsite/static/css/main.83b5dced.chunk.css",
+    "main.js": "/Cenzo-cmd/testingWebsite/static/js/main.b7c5ed48.chunk.js",
+    "main.js.map": "/Cenzo-cmd/testingWebsite/static/js/main.b7c5ed48.chunk.js.map",
+    "runtime-main.js": "/Cenzo-cmd/testingWebsite/static/js/runtime-main.4248eb6c.js",
+    "runtime-main.js.map": "/Cenzo-cmd/testingWebsite/static/js/runtime-main.4248eb6c.js.map",
+    "static/js/2.f0742ee7.chunk.js": "/Cenzo-cmd/testingWebsite/static/js/2.f0742ee7.chunk.js",
+    "static/js/2.f0742ee7.chunk.js.map": "/Cenzo-cmd/testingWebsite/static/js/2.f0742ee7.chunk.js.map",
+    "index.html": "/Cenzo-cmd/testingWebsite/index.html",
+    "static/css/main.83b5dced.chunk.css.map": "/Cenzo-cmd/testingWebsite/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.f0742ee7.chunk.js.LICENSE.txt": "/Cenzo-cmd/testingWebsite/static/js/2.f0742ee7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4248eb6c.js",
+    "static/js/2.f0742ee7.chunk.js",
+    "static/css/main.83b5dced.chunk.css",
+    "static/js/main.b7c5ed48.chunk.js"
+  ]
+}
