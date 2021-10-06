@@ -1,6 +1,6 @@
 export const Navigation = (props) => {
   return (
-    <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
+    <nav id='menu' className='navbar navbar-default navbar-fixed-top '>
       <div className='container'>
         <div className='navbar-header'>
           <button
@@ -16,15 +16,18 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            emOG
+            emOG NFT
           </a>{' '}
         </div>
 
         <div
           className='collapse navbar-collapse'
           id='bs-example-navbar-collapse-1'
+          data-toggle='collapse'
+          toggle="collapse" data-target=".navbar-collapse"
+          
         >
-          <ul className='nav navbar-nav navbar-right'>
+          <ul className='nav navbar-nav navbar-right' toggle='collapse'>
             {/* <li>
               <a href='#' >
                 Opensea
@@ -56,11 +59,11 @@ export const Navigation = (props) => {
                 Gallery
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href='#about' className='page-scroll'>
                 Shop
               </a>
-            </li>
+            </li> */}
             <li>
               <a href='#contact' className='page-scroll'>
                 Contact
