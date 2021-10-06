@@ -70,8 +70,8 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : '/'}>
-                      <i className='fa fa-facebook'></i>
+                    <a href={props.data ? props.data.linkedin : '/'} target="_blank" rel="noreferrer">
+                      <i className='fa fa-linkedin'></i>
                     </a>
                   </li>
                   <li>
@@ -81,7 +81,7 @@ export const Contact = (props) => {
                   </li>
                   <li>
                     <a href={props.data ? props.data.youtube : '/'}>
-                      <i className='fa fa-youtube'></i>
+                      <i className='fa fa-discord'></i>
                     </a>
                   </li>
                 </ul>

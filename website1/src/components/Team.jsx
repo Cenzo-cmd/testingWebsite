@@ -5,7 +5,13 @@ export const Team = (props) => {
         <div className='col-md-8 col-md-offset-2 section-title'>
           <h2>Team & Story</h2>
           <p>
-            emOG was created by Vincent his 8 year old daughter.  I was showing my daughter the Crypto Punks collection and she asked "Can we make a collection of Pixel Art Emoji's?".  Immediately the emOG idea was created.  After hours of laughing and drawing, we were able to put togeather a small collection of layers which we were able to generate into random emoji images.  Add to story here......
+          I’m Vincent and I, along with my 8-year-old daughter, created emOG. While
+showing her the Crypto Punks collection, my daughter asked, “Can we make a
+collection of Pixel Art Emojis?” Immediately, the emOG idea was created. After
+hours of laughing and drawing, we were able to put together a small collection of
+layers and then generate random emoji images. This collaboration is yielding new
+creations daily. Our intent is to donate to schools and youth programs that are in
+need.
           </p>
         </div>
         <div id='row'>
