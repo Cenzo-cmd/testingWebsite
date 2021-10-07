@@ -1,7 +1,7 @@
 name = "emOG NFT"
 type = "webpack"
 route = ''
-zone_id = 'd2dc33e664de912db4787c8a450dd280'
+zone_id = 'cecc62c6f9eda53a65ff90b92c0c6858'
 usage_model = ''
 compatibility_flags = []
 workers_dev = true
