@@ -1,0 +1,9 @@
+name = "emOG NFT"
+type = "webpack"
+route = ''
+zone_id = 'd2dc33e664de912db4787c8a450dd280'
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+site = {bucket = "./build",entry-point = "workers-site"}
+compatibility_date = "2021-10-07"
