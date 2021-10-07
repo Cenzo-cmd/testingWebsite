@@ -1,5 +1,4 @@
 export const About = (props) => {
-  console.log("RRRRRRRRRRRRRRRR", props)
   return (
     <div id="about">
       <div className="container">
