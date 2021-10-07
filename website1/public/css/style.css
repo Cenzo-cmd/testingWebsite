@@ -148,6 +148,10 @@ hr {
   margin-bottom: 15px;
   padding-bottom: 15px;
 }
+.layerImg {
+  width: 150px;
+  height: 150px;
+}
 .section-title h2::after {
   position: absolute;
   content: "";
@@ -246,7 +250,7 @@ header .intro-text {
 }
 /* Features Section */
 #features {
-  background: #f6f6f6;
+  background: white;
 }
 #features i {
   font-size: 52px;
@@ -263,6 +267,7 @@ header .intro-text {
 /* About Section */
 #about {
   padding: 50px 0;
+  background-color: #f6f6f6;
 }
 
 #about h3 {
@@ -363,7 +368,7 @@ header .intro-text {
 /* test */
 /* Services Section */
 #services {
-  padding: 100px 0;
+  padding: 50px 0;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: #fff;
 }
@@ -406,7 +411,7 @@ header .intro-text {
 }
 /* Portfolio Section */
 #portfolio {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 .portfolio-item {
   margin: 1px -15px 0 -14px;
@@ -451,7 +456,7 @@ header .intro-text {
 }
 /* Testimonials Section */
 #testimonials {
-  padding: 100px 0;
+  padding: 50px 0;
   background: #f6f6f6;
 }
 #testimonials i {
@@ -490,7 +495,7 @@ header .intro-text {
 }
 /* Team Section */
 #team {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 #team h4 {
   margin: 5px 0;
@@ -506,9 +511,10 @@ header .intro-text {
   padding: 10px 0 0;
   color: #888;
 }
+
 /* Contact Section */
 #contact {
-  padding: 100px 0 60px;
+  padding: 50px 0 60px;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: rgba(255, 255, 255, 0.75);
 }

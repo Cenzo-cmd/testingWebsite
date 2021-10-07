@@ -3,8 +3,8 @@
   "paragraph": ""
 },
 "Intro": {
-  "paragraph": "emOG's are a limited collection of 10,000 uniquely generated NFT's from over 100 different attributes. The 1st generation of 10,000 NFT's are Crypto Punk inspired and will be 24 x 24 pixels, enlarged to 720 x 720 pixels, stored on the Ethereum Blockchain.  The NFT sale will be Sunday October 24th, at 5 PM EST.  Each emOG will cost 0.035 ETH and you wil be able to mint 10 per transaction.",
-  "secondP": "Our mission is simple, we want to give back to commuinities while bringing awareness to NFT's.  Our goal is to raise $1 million and donate it to schools, sports programs and learning centers in the form of learning supplies, sports equipment and any supply that will benefit our youth communities.  50% of all NFT mint sales, aftermarket royalties and shop profits will donated to our youth.  If you are interested in joining our community or would like to nominate a school, please join our discord."
+  "paragraph": "emOG's are a limited collection of 10,000 uniquely generated NFT's from over 100 attributes. The 1st generation of 10,000 NFT's are Crypto Punk inspired and will be 24 x 24 pixels, enlarged to 720 x 720 pixels, stored on the Ethereum Blockchain.  The NFT sale will be Sunday October 24th, at 5 PM EST.  Each emOG will cost 0.035 ETH and you wil be able to mint 10 per transaction.",
+  "secondP": "Our mission is simple, we want to give back to commuinities while bringing awareness to NFT's.  Our goal is to raise $1 million and donate it to schools, sports programs and learning centers in the form of learning supplies, sports equipment and any supply that will benefit the youth of our communities.  We will contribute 50% of all NFT mint sales, aftermarket royalties and shop profits.  If you are interested in joining our community, or wish to nominate a school or a youth program, please join our discord."
 },
   
   "About": {
@@ -86,21 +86,21 @@
     },
     {
       "img": "img/testimonials/t4.png",
-      "text": "Revamp website to be 100% transparent.  We want everyone to be able to see where and what we donated as a community.  Through NFT's and community, we will make the world a better place."
+      "text": "Revamp website to be 100% transparent.  We want everyone to be able to see where and what we donated togeather.  Through NFT's and community, we will make the world a better place."
     },
     {
       "img": "img/testimonials/t5.png",
-      "text": "It is rumored that Santa Clause likes airdrops and there are a lot of good emOG's on his list.  Everytime we break our donation goal, the new goal will be 2X what it was prior."
+      "text": "It is rumored that Santa Clause likes airdrops and there are a lot of good emOG's on his list.  "
     },
     {
       "img": "img/testimonials/t6.png",
-      "text": ""
+      "text": "Everytime we break our donation goal, we will set a new goal for double the previous amount.  "
     }
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "Vincent Doria Jr.",
+      "img": "img/team/1.png",
+      "name": "Vincent Doria",
       "job": "Full Stack Developer/ Artist"
     },
     {
@@ -111,40 +111,40 @@
   ],
   "Contact": {
     "email": "info@8bitemoji.io",
-    "facebook": "fb.com",
+    "linkedin": "https://www.linkedin.com/in/vincent-doria-7938741aa/",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "far fa-dizzy",
+      "img": "img/layers/layer1.png",
       "title": "Background",
-      "text": "The base layer of the 8bit-emoji NFT collection. 😃 One of ten with equal chance to appear."
+      "text": "The base layer of the emOG NFT collection. 😃 10 options."
     },
     {
-      "icon": "far fa-meh",
+      "img": "img/layers/layer2.png",
       "title": "Face",
-      "text": "One shape with 8 different potential outcomes for the 8bit-emoji; Will you mint the ultra-rare 💩?"
+      "text": "9 total outcomes for the emOG; Will you mint the ultra-rare 💩?"
     },
     {
-      "icon": "far fa-flushed ",
+      "img": "img/layers/layer3.png",
       "title": "Mouth",
-      "text": "🤑 28 potential variations to make your 8bit-emoji sad ... or glad ... or mad ... or ..."
+      "text": "🤑 28 potential variations to make your emOG sad ... or glad ... or mad ... or ... "
     },
     {
-      "icon": "far fa-grin-squint",
+      "img": "img/layers/layer4.png",
       "title": "Eyes",
-      "text": "Crying laughing, or just plain crying; 🙄 the eyes are the window to the 8bit-emoji."
+      "text": "Crying laughing, or just plain crying; 🙄 the eyes are the window to the emOG."
     },
     {
-      "icon": "far fa-grin-tongue",
+      "img": "img/layers/layer5.png",
       "title": "Headwear",
-      "text": "The 8bit-emoji is given to express personality 🎅 through the type of head wear chosen."
+      "text": "The emOG is given to express personality 🎅 through the type of head wear chosen."
     }, 
     {
-      "icon": "far fa-kiss-wink-heart",
+      "img": "img/layers/layer6.png",
       "title": "Rare props",
-      "text": "There is only a 15% change of minting a prop for your 8bit-emoji, 👽 may the force of the blockchain be with you."
+      "text": "There is only a 15% change of minting a prop for your emOG, 👽 may the force of the blockchain be with you."
     }
   ]
 }
