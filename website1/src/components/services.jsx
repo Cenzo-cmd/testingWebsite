@@ -21,7 +21,7 @@ will be in the Discard channel, #chat-with-creator, to answer any questions.
                     <p>Are you an emOG fan!?  Join the discussion in our discord channel.</p>
             </div>
             <div className='col-md-6'>
-            <a href="https://www.twitter.com/" target="_blank" rel="noreferrer">
+            <a href="https://twitter.com/emOG_NFT" target="_blank" rel="noreferrer">
                   <i className="fa fa-twitter"></i>
                     </a>
                     <h3>Twitter</h3>

@@ -75,13 +75,13 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : '/'}>
+                    <a href={props.data ? props.data.twitter : '/'} target="_blank" rel="noreferrer">
                       <i className='fa fa-twitter'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
-                      <i className='fa fa-discord'></i>
+                    <a href={props.data ? props.data.discord : '/'} target="_blank" rel="noreferrer">
+                      <i className="fab fa-discord"></i>
                     </a>
                   </li>
                 </ul>
