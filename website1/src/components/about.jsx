@@ -1,12 +1,12 @@
 export const About = (props) => {
-  console.log("RRRRRRRRRRRRRRRR", props)
   return (
     <div id="about">
       <div className="container">
         <div className="row">
           {/*<div className="col-xs-12 col-md-6">
+          //add if needed
             {" "}
-            <img src="img/about.png" className="img-responsive" alt="" />{" "}
+            <img src="img/about.png" className="img-responsive" alt="" />{" "}  
   </div> */}
           <div className="col-xs-12 col-md-12">
             <div className="section-title text-center">
