@@ -46,7 +46,8 @@ export const Contact = (props) => {
                 <p>Special Thanks 🙏:</p>
                 <p>Gary V. - You are a role model for us at emOG NFT.</p>
                 <p>Thanks for all the insight and knowledge you put out.</p>
-                <p>Danny - I would not be here if I did not stumble on your twitter.</p>
+                <p>Danny - My passion for NFT's started when I stumbled on your twitter.</p>
+                <p>Hashlips - Thanks for support and helpful community.</p>
               </div>
               
             </div>

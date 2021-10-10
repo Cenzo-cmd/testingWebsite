@@ -18,14 +18,14 @@ will be in the Discard channel, #chat-with-creator, to answer any questions.
                   <i className="fab fa-discord"></i>
                     </a>
                     <h3>Discord</h3>
-                    <p>Are you an emOG fan!?  Join the discussion in our discord channel.</p>
+                    <p>Jump in our community and give us a 👋</p>
             </div>
             <div className='col-md-6'>
             <a href="https://twitter.com/emOG_NFT" target="_blank" rel="noreferrer">
                   <i className="fa fa-twitter"></i>
                     </a>
                     <h3>Twitter</h3>
-                    <p>Let's spread the word, one Tweet at a time.</p>
+                    <p>Let's spread the word, one Tweet at a time 🐦</p>
             </div>  
         </div>
       </div>
