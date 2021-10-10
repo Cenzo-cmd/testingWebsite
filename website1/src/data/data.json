@@ -4,7 +4,7 @@
 },
 "Intro": {
   "paragraph": "emOG's are a limited collection of 10,000 uniquely generated NFT's from over 100 attributes. The 1st generation of 10,000 NFT's are Crypto Punk inspired and will be 24 x 24 pixels, enlarged to 720 x 720 pixels, stored on the Ethereum Blockchain.  The NFT sale will be Sunday October 24th, at 5 PM EST.  Each emOG will cost 0.035 ETH and you wil be able to mint 10 per transaction.",
-  "secondP": "Our mission is simple, we want to give back to commuinities while bringing awareness to NFT's.  Our goal is to raise $1 million and donate it to schools, sports programs and learning centers in the form of learning supplies, sports equipment and any supply that will benefit the youth of our communities.  We will contribute 50% of all NFT mint sales, aftermarket royalties and shop profits."
+  "secondP": "Our mission is simple, we want to give back to commuinities while bringing awareness to NFT's.  Our goal is to raise $1 million and donate it to schools, sports programs and learning centers in the form of innovation lab equiptment, learning supplies, sports equipment and any supply that will benefit the youth of our communities.  We will contribute 50% of all NFT mint sales, aftermarket royalties and shop profits."
 },
   
   "About": {
@@ -61,8 +61,8 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/t1.png",
-      "text": "emOG is released to the world.  Friday October 8th, 2021!  The NFT sale will be Sunday October 24th, at 5 PM EST."
+      "img": "img/testimonials/t5.png",
+      "text": "emOG is released to the world.  Sunday October 10th, 2021!  The NFT sale will be Sunday October 24th, at 5 PM EST."
     },
     {
       "img": "img/testimonials/t2.png",
@@ -73,15 +73,15 @@
       "text": "For every 400 emOG's minted, we will give 1 away.  The giveaway emOG will be minted or purchased.  Giveaways will take place on Twitter and Discord."
     },
     {
-      "img": "img/testimonials/t4.png",
+      "img": "img/testimonials/image27.png",
       "text": "Revamp website to be 100% transparent.  We want everyone to be able to see where and what we donated.  Through NFT's and community, we will make the world a better place."
     },
     {
-      "img": "img/testimonials/t5.png",
+      "img": "img/testimonials/t6.png",
       "text": "Rarity tools submission after 1,000 mints.  We do not want our emOG's getting lonely, Santa Clause will be airdropping companions."
     },
     {
-      "img": "img/testimonials/t6.png",
+      "img": "img/testimonials/t1.png",
       "text": "Everytime we break our donation goal, the new goal will be 2X what it was prior.  Jump in our Discord and join us to pave the path for emOG NFT."
     }
   ],
@@ -89,7 +89,7 @@
     {
       "img": "img/team/1.png",
       "name": "Vincent Doria",
-      "job": "Full Stack Developer/ Artist"
+      "job": "Developer/ Artist"
     },
     {
       "img": "img/team/2.png",
@@ -101,8 +101,7 @@
     "email": "info@emOG.io",
     "linkedin": "https://www.linkedin.com/in/vincent-doria-7938741aa/",
     "discord": "https://discord.gg/RKjsYfRbJg",
-    "twitter": "https://twitter.com/emOG_NFT",
-    "phone": ""
+    "twitter": "https://twitter.com/emOG_NFT"
   },
   "Features": [
     {
@@ -113,22 +112,22 @@
     {
       "img": "img/layers/layer2.png",
       "title": "Face",
-      "text": "9 total outcomes for the emOG; Will you mint the ultra-rare 💩?"
+      "text": "9 total outcomes for the emOG; Will you mint the elusive and rare 💩?"
     },
     {
       "img": "img/layers/layer3.png",
       "title": "Mouth",
-      "text": "🤑 28 potential variations to make your emOG sad ... or glad ... or mad ... or ... "
+      "text": "🤑 Over 30 variations to make your emOG glad... sad... or mad... "
     },
     {
       "img": "img/layers/layer4.png",
       "title": "Eyes",
-      "text": "Crying laughing, or just plain crying; 🙄 the eyes are the window to the emOG."
+      "text": "Crying laughing, or just plain crying; 🤣 the eyes do not lie on emOG's."
     },
     {
       "img": "img/layers/layer5.png",
       "title": "Headwear",
-      "text": "The emOG is given to express personality 🎅 through the type of head wear chosen."
+      "text": "The head wear allows the emOG's 🎅 to express their true personality."
     }, 
     {
       "img": "img/layers/layer6.png",

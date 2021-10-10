@@ -14,7 +14,7 @@ will be in the Discard channel, #chat-with-creator, to answer any questions.
         </div>
         <div className='row'>
             <div className='col-md-6'>
-            <a href="https://www.discord.com/" target="_blank" rel="noreferrer">
+            <a href="https://discord.gg/RKjsYfRbJg" target="_blank" rel="noreferrer">
                   <i className="fab fa-discord"></i>
                     </a>
                     <h3>Discord</h3>
