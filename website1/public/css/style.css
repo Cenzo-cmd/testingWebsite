@@ -70,6 +70,11 @@ hr {
   margin-bottom: 20px;
   border: 0;
 }
+
+.mainImage {
+  width: 50px;
+  border-radius: 50%;
+}
 /* Navigation */
 #menu {
   padding: 15px;
