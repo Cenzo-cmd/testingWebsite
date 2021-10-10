@@ -1,5 +1,5 @@
-import { useState } from 'react'
-import emailjs from 'emailjs-com'
+import { useState } from 'react';
+import emailjs from 'emailjs-com';
 
 const initialState = {
   name: '',
@@ -43,7 +43,10 @@ export const Contact = (props) => {
                 <p>
                 Coming soon 😁
                 </p>
-
+                <p>Special Thanks 🙏:</p>
+                <p>Gary V. - You are a role model for us at emOG NFT.</p>
+                <p>Thanks for all the insight and knowledge you put out.</p>
+                <p>Danny - I would not be here if I did not stumble on your twitter.</p>
               </div>
               
             </div>
@@ -70,18 +73,22 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.linkedin : '/'} target="_blank" rel="noreferrer">
-                      <i className='fa fa-linkedin'></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.twitter : '/'} target="_blank" rel="noreferrer">
-                      <i className='fa fa-twitter'></i>
+                    <a href={props.data ? props.data.discord : '/'} target="_blank" rel="noreferrer">
+                    <i className="fab fa-discord"></i>
+                      <img className="icons" src="/img/icons/twitter.png" alt="React Logo" />
+                       
                     </a>
                   </li>
                   <li>
                     <a href={props.data ? props.data.discord : '/'} target="_blank" rel="noreferrer">
-                      <i className="fab fa-discord"></i>
+                    <i className="fab fa-discord"></i>
+                      <img className="icons" src="/img/icons/discord2.png" alt="React Logo" />
+                    </a>
+                  </li>
+                  <li>
+                    <a href={props.data ? props.data.discord : '/'} target="_blank" rel="noreferrer">
+                    <i className="fab fa-discord"></i>
+                      <img className="icons" src="/img/icons/linkedin.png" alt="React Logo" />                 
                     </a>
                   </li>
                 </ul>

@@ -5,7 +5,7 @@ export const Team = (props) => {
         <div className='col-md-8 col-md-offset-2 section-title'>
           <h2>Team & Story</h2>
           <p>
-          I’m Vincent and I, along with my 8-year-old daughter, created emOG. While
+          I’m Vincent; I created emOG NFT with my creative partner... my 8 year old daughter. While
 showing her the Crypto Punks collection, my daughter asked, “Can we make a
 collection of Pixel Art Emojis?” Immediately, the emOG idea was created. After
 hours of laughing and drawing, we were able to put together a small collection of
