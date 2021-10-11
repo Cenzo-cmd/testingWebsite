@@ -3,7 +3,7 @@
   "paragraph": ""
 },
 "Intro": {
-  "paragraph": "emOG's are a limited collection of 10,000 uniquely generated NFT's from over 100 attributes. The 1st generation of 10,000 NFT's are Crypto Punk inspired and will be 24 x 24 pixels, enlarged to 720 x 720 pixels, stored on the Ethereum Blockchain.  The NFT sale will be Sunday October 24th, at 5 PM EST.  Each emOG will cost 0.035 ETH and you wil be able to mint 10 per transaction.",
+  "paragraph": "emOG's are a limited collection of 10,000 uniquely generated NFT's from over 100 attributes. The 1st generation of 10,000 NFT's are Crypto Punk inspired and will be 24 x 24 pixels, enlarged to 720 x 720 pixels, stored on the Ethereum Blockchain.  The NFT sale will be Sunday October 24th, at 5 PM EST.  Each emOG will cost 0.035 ETH and you wil be able to mint 10 per transaction.  emOG NFT is the original generative pixel art emoji collection on the Ethereum blockchain.",
   "secondP": "Our mission is simple, we want to give back to commuinities while bringing awareness to NFT's.  Our goal is to raise $1 million and donate it to schools, sports programs and learning centers in the form of innovation lab equiptment, learning supplies, sports equipment and any supply that will benefit the youth of our communities.  We will contribute 50% of all NFT mint sales, aftermarket royalties and shop profits."
 },
   
@@ -24,14 +24,9 @@
       "smallImage": "img/emoji/image17.png"
     },
     {
-      "title": "Base: Yellow, Mouth: Tongue Out, Eyes: Robocop, Hat: Pimp, Prop: None",
-      "largeImage": "img/emoji/image25.png",
-      "smallImage": "img/emoji/image25.png"
-    },
-    {
-      "title": "Base: Yellow, Mouth: Blush, Eyes: Happy, Hat: Leprechaun, Prop: None",
-      "largeImage": "img/emoji/image23.png",
-      "smallImage": "img/emoji/image23.png"
+      "title": "Base: Yellow, Mouth: Zig-zag, Eyes: Orange Sunglasses, Hat: Cowboy, Prop: Pipe",
+      "largeImage": "img/emoji/image21.png",
+      "smallImage": "img/emoji/image21.png"
     },
     {
       "title": "Base: Poop, Mouth: Smile, Eyes: Excited, Hat: Santa Claus, Prop: None",
@@ -39,9 +34,20 @@
       "smallImage": "img/emoji/image12.png"
     },
     {
-      "title": "Base: Red, Mouth: Surprised, Eyes: Sunglasses, Hat: Purple, Prop: Party Horn",
-      "largeImage": "img/emoji/image16.png",
-      "smallImage": "img/emoji/image16.png"
+      "title": "Base: Yellow, Mouth: Blush, Eyes: Happy, Hat: Leprechaun, Prop: None",
+      "largeImage": "img/emoji/image23.png",
+      "smallImage": "img/emoji/image23.png"
+    },
+    
+    {
+      "title": "Base: Yellow, Mouth: Tongue Out Side, Eyes: Robocop, Hat: Pimp, Prop: None",
+      "largeImage": "img/emoji/image25.png",
+      "smallImage": "img/emoji/image25.png"
+    },
+    {
+      "title": "Base: Yellow, Mouth: Tounge Out, Eyes: Amazed, Hat: Chef, Prop: None",
+      "largeImage": "img/emoji/t1.png",
+      "smallImage": "img/emoji/t1.png"
     },
     {
       "title": "Base: Yellow, Mouth: Normal Smile, Eyes: Wink, Hat: None, Prop: None",
@@ -52,11 +58,6 @@
       "title": "Base: Sick, Mouth: Puke, Eyes: Sunglasses2, Hat: Blue, Prop: None",
       "largeImage": "img/emoji/image6.png",
       "smallImage": "img/emoji/image6.png"
-    },
-    {
-      "title": "Base: Yellow, Mouth: Zig-zag, Eyes: Orange Sunglasses, Hat: Cowboy, Prop: Pipe",
-      "largeImage": "img/emoji/image21.png",
-      "smallImage": "img/emoji/image21.png"
     }
   ],
   "Testimonials": [
@@ -65,7 +66,7 @@
       "text": "emOG is released to the world.  Sunday October 10th, 2021!  The NFT sale will be Sunday October 24th, at 5 PM EST."
     },
     {
-      "img": "img/testimonials/t2.png",
+      "img": "img/testimonials/t6.png",
       "text": "Shop Launch with giveaways!  We are aiming to get the shop launched before the sale so you can bring an emOG anywhere!"
     },
     {
@@ -77,7 +78,7 @@
       "text": "Revamp website to be 100% transparent.  We want everyone to be able to see where and what we donated.  Through NFT's and community, we will make the world a better place."
     },
     {
-      "img": "img/testimonials/t6.png",
+      "img": "img/testimonials/t7.png",
       "text": "Rarity tools submission after 1,000 mints.  We do not want our emOG's getting lonely, Santa Clause will be airdropping companions."
     },
     {
@@ -87,7 +88,7 @@
   ],
   "Team": [
     {
-      "img": "img/team/1.png",
+      "img": "img/team/vincent.jpeg",
       "name": "Vincent Doria",
       "job": "Developer/ Artist"
     },
