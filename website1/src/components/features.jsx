@@ -4,7 +4,7 @@ export const Features = (props) => {
       <div className='container'>
         <div className='col-md-10 col-md-offset-1 section-title'>
           <h2>How are emOG's created?</h2>
-          <p>There are 6 layers to each emOG.  Each layer has multiple traits options but each emOG will randomly recieve 1 trait per layer.  There are over 100 different traits which will make each NFT unique to the collection.</p>
+          <p>There are 6 layers to each emOG.  Each layer has multiple traits options but each emOG will randomly receive 1 trait per layer.  There are over 100 different traits which will make each NFT unique to the collection.</p>
         </div>
         <div className='row'>
           {props.data
