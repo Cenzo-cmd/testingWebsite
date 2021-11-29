@@ -9,9 +9,7 @@ export const Team = (props) => {
 showing her the Crypto Punks collection, my daughter asked, “Can we make a
 collection of Pixel Art Emojis?” Immediately, the emOG idea was created. After
 hours of laughing and drawing, we were able to put together a small collection of
-layers and then generate random emoji images. This collaboration is yielding new
-creations daily. Our intent is to donate to schools and youth programs that are in
-need.
+layers and then generate random emoji images. 
           </p>
         </div>
         <div id='row'>

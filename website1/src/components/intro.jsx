@@ -13,8 +13,9 @@ export const Intro = (props) => {
               <div className="section-title text-center">
                 <h2>What are emOG's?</h2>
                 <p>{props.data ? props.data.paragraph : "loading..."}</p>
-                <h2>Mission</h2>
-                <p>{props.data ? props.data.secondP : "loading..."}</p>
+                {/* Mission statememnt below */}
+                {/* <h2>Mission</h2>
+                <p>{props.data ? props.data.secondP : "loading..."}</p> */}
                 {/* <div className="list-style">
                   <div className="col-lg-6 col-sm-6 col-xs-12">
                     <ul>
