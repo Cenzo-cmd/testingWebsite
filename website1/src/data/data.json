@@ -3,7 +3,7 @@
   "paragraph": ""
 },
 "Intro": {
-  "paragraph": "emOG's are a limited collection of uniquely generated NFT's from over 100 attributes. emOG's are Crypto Punk inspired and are 24 x 24 pixels, enlarged to 720 x 720 pixels, stored on the Ethereum Blockchain.  emOG NFT is the original generative pixel art emoji collection on the Ethereum blockchain.",
+  "paragraph": "After years of grueling work, 50 brave emojis decided they were done being repetitively printed and misused on the large \"Best Friends Forever\" thread.  They decided to leave the texting world and migrated onto the Ethereum blockchain.  A transformation occurred during the migration process that randomly selected traits from over 110 options, making each emoji unique.  This process took the first 50 emojis and minted them into emOG's that live on the Ethereum blockchain as NFT's.  emOG NFT is the original generative pixel are emoji collection on the Ethereum blockchain.  After the first 50 emOG's were sucessfully minted, other emojis want to follow in their foot steps.  emOG NFT will be expanding to multiple different blockchains, each blockchain will have a maximum of 500 emOG's.",
   "secondP": ""
 },
   
@@ -63,7 +63,8 @@
   "Testimonials": [
     {
       "img": "img/testimonials/t5.png",
-      "text": "emOG is released to the world.  Sunday October 10th, 2021!  The NFT sale will be Sunday October 24th, at 5 PM EST."
+      "text": "How many emOG's will be created?",
+      "answer": "The emOG NFT collection consists of 10,000 emOG's and will have a maximum of 500 emOG's per blockchain."
     },
     {
       "img": "img/testimonials/t6.png",

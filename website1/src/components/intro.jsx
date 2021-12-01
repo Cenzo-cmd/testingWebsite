@@ -13,6 +13,7 @@ export const Intro = (props) => {
               <div className="section-title text-center">
                 <h2>What are emOG's?</h2>
                 <p>{props.data ? props.data.paragraph : "loading..."}</p>
+                {/* <p>{props.data ? props.data.secondP : "loading..."}</p> */}
                 {/* Mission statememnt below */}
                 {/* <h2>Mission</h2>
                 <p>{props.data ? props.data.secondP : "loading..."}</p> */}

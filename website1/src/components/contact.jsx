@@ -36,36 +36,8 @@ export const Contact = (props) => {
     <div>
       <div id='contact'>
         <div className='container'>
-          <div className='col-md-8'>
-            <div className='row'>
-              <div className='section-title'>
-                <p>Special Thanks 🙏:</p>
-                <p>Gary V. - You are a role model for us at emOG NFT.</p>
-                <p>Thanks for all the insight and knowledge you put out.</p>
-                <p>Hashlips - Thanks for support and great community you created. </p>
-                <p>Everyone on NFT Twitter sending out posative vibes.</p>
-                <p>Ape Gang NFT</p>
-              </div>
-              
-            </div>
-          </div>
-          <div className='col-md-3 col-md-offset-1 contact-info'>
-            <div className='contact-item'>
-              {/* <h3>Contact Info</h3> */}
-              <p>
-                {' '}
-                {props.data ? props.data.phone : 'loading'}
-              </p>
-            </div>
-            <div className='contact-item'>
-              <p>
-                <span>
-                  <i className='fa fa-envelope-o'></i> Email
-                </span>{' '}
-                {props.data ? props.data.email : 'loading'}
-              </p>
-            </div>
-          </div>
+          
+          
           <div className='col-md-12'>
             <div className='row'>
               <div className='social'>
@@ -77,13 +49,16 @@ export const Contact = (props) => {
                        
                     </a>
                   </li>
+                  <li><p>
+            &copy; 2021 emOG NFT
+          </p></li>
                   <li>
                     <a href={props.data ? props.data.twitter2 : '/'} target="_blank" rel="noreferrer">
                     <i className="fab fa-twitter"></i>
-                      <img className="icons" src="/img/icons/twitter.png" alt="React Logo" />
-                       
+                      <img className="icons" src="/img/icons/twitter.png" alt="React Logo" />                      
                     </a>
                   </li>
+                  
                 </ul>
               </div>
             </div>
