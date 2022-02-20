@@ -36,11 +36,11 @@ export const Navigation = (props) => {
                 Opensea
               </a>
             </li> */}
-            <li>
-              <a href='https://opensea.io/collection/emognft' target="_blank" rel="noreferrer">
+            {/* <li>
+              <a href='' target="_blank" rel="noreferrer">
                 Buy on Opensea
               </a>
-            </li>
+            </li> */}
             <li>
               <a href='#info' className='page-scroll'>
                 About

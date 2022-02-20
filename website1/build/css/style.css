@@ -324,6 +324,10 @@ header .intro-text {
   padding: 10px 0;
   background-color: white;
 }
+#info2 {
+  padding: 10px 0;
+  background-color: #f6f6f6;
+}
 
 #info h3 {
   font-size: 22px;

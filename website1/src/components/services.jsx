@@ -18,7 +18,7 @@ export const Services = (props) => {
                     <p>Jump in our community and give us a 👋</p>
             </div>
             <div className='col-md-6'>
-            <a href="https://twitter.com/emOG_NFT" target="_blank" rel="noreferrer">
+            <a href="https://twitter.com/FreedoMojis" target="_blank" rel="noreferrer">
                   <i className="fa fa-twitter"></i>
                     </a>
                     <h3>Twitter</h3>
