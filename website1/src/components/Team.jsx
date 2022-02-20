@@ -5,12 +5,8 @@ export const Team = (props) => {
         <div className='col-md-8 col-md-offset-2 section-title'>
           <h2>Team & Story</h2>
           <p>
-          I’m Vincent; I created emOG NFT with my creative partner... my 8 year old daughter. While
-showing her the Crypto Punks collection, my daughter asked, “Can we make a
-collection of Pixel Art Emojis?” Immediately, the emOG idea was created. After
-hours of laughing and drawing, we were able to put together a small collection of
-layers and then generate random emoji images. 
-          </p>
+          All of the art was created by my 8 year old daughter and I.  In November, I showed my daughter the CryptoPunk collection and the first question she asked was if we could make a pixel art emoji collection.  This idea immediately motivated me do dive into solidity and understand how smart contracts work so I could start developing and building in this space. I am very passionate about the NFT community and am looking forward to growing in this space.  If you do not agree with this cause and project, I respect your beliefs and believe we can agree, to disagree and be civil adults.  The question is, how will I get labeled when others don't agree with my project and beliefs?  Time will tell.  I appreciate you all and let FREEDOM RING!          
+           </p>
         </div>
         <div id='row'>
           {props.data

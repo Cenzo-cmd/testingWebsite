@@ -1,8 +1,8 @@
-export const Intro = (props) => {
+export const Intro2 = (props) => {
     
     return (
     
-      <div id="info">
+      <div id="info2">
         <div className="container introCont">
           <div className="row">
             {/* <div className="col-xs-12 col-md-6">
@@ -11,8 +11,8 @@ export const Intro = (props) => {
             </div> */}
             <div className="col-xs-12 col-md-12 col-lg-12">
               <div className="section-title text-center">
-                <h2>What are FREEDOMojis</h2>
-                <p>{props.data ? props.data.paragraph : "loading..."}</p>
+                <h2>Why Now</h2>
+                <p>{props.data ? props.data.paragraph2 : "loading..."}</p>
                 {/* <p>{props.data ? props.data.secondP : "loading..."}</p> */}
                 {/* Mission statememnt below */}
                 {/* <h2>Mission</h2>

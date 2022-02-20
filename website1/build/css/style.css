@@ -322,7 +322,7 @@ header .intro-text {
 /* test */
 #info {
   padding: 10px 0;
-  background-color: #f6f6f6;
+  background-color: white;
 }
 
 #info h3 {

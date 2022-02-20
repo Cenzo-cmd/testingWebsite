@@ -50,7 +50,7 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li><p>
-            &copy; 2021 emOG NFT
+            &copy; 2021 FREEDOMojis NFT
           </p></li>
                   <li>
                     <a href={props.data ? props.data.twitter2 : '/'} target="_blank" rel="noreferrer">
